@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e800fdd4-4801-49f9-8f4a-07a442b550a0": {
+      "ProjectGuid": "e800fdd4-4801-49f9-8f4a-07a442b550a0",
+      "DisplayName": "class_Storepedia",
+      "ColorIndex": 0
+    },
+    "e1e1ca47-2167-447c-b6f6-a2b5ed92af3f": {
+      "ProjectGuid": "e1e1ca47-2167-447c-b6f6-a2b5ed92af3f",
+      "DisplayName": "pbd_5_AplikasiStorepedia",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

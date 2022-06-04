@@ -1,0 +1,1010 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E1E1CA47-2167-447C-B6F6-A2B5ED92AF3F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>pbd_5_AplikasiStorepedia</RootNamespace>
+    <AssemblyName>pbd_5_AplikasiStorepedia</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>storepedia_logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="class_Storepedia">
+      <HintPath>..\class_Storepedia\class_Storepedia\bin\Debug\class_Storepedia.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=5.14.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.14.1\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.1.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.1.1\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\class_Storepedia\class_Storepedia\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\FormMetodeBayar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\FormMetodeBayar.Designer.cs">
+      <DependentUpon>FormMetodeBayar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\FormUserUtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\FormUserUtama.designer.cs">
+      <DependentUpon>FormUserUtama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\InvisiblePanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form User\1 - Beranda Flow\UCFilterDialog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\1 - Beranda Flow\UCFilterDialog.Designer.cs">
+      <DependentUpon>UCFilterDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Barang\FormDaftarBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Barang\FormDaftarBarang.Designer.cs">
+      <DependentUpon>FormDaftarBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Barang\FormHapusBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Barang\FormHapusBarang.Designer.cs">
+      <DependentUpon>FormHapusBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Barang\FormTambahBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Barang\FormTambahBarang.Designer.cs">
+      <DependentUpon>FormTambahBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Barang\FormUbahBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Barang\FormUbahBarang.Designer.cs">
+      <DependentUpon>FormUbahBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Jabatan\FormDaftarJabatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Jabatan\FormDaftarJabatan.Designer.cs">
+      <DependentUpon>FormDaftarJabatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Kategori\FormDaftarKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Kategori\FormDaftarKategori.Designer.cs">
+      <DependentUpon>FormDaftarKategori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pegawai\FormDaftarPegawai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pegawai\FormDaftarPegawai.Designer.cs">
+      <DependentUpon>FormDaftarPegawai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pelanggan\FormDaftarPelanggan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pelanggan\FormDaftarPelanggan.Designer.cs">
+      <DependentUpon>FormDaftarPelanggan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Supplier\FormDaftarSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Supplier\FormDaftarSupplier.Designer.cs">
+      <DependentUpon>FormDaftarSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Jabatan\FormHapusJabatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Jabatan\FormHapusJabatan.Designer.cs">
+      <DependentUpon>FormHapusJabatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Kategori\FormHapusKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Kategori\FormHapusKategori.Designer.cs">
+      <DependentUpon>FormHapusKategori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pegawai\FormHapusPegawai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pegawai\FormHapusPegawai.Designer.cs">
+      <DependentUpon>FormHapusPegawai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pelanggan\FormHapusPelanggan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pelanggan\FormHapusPelanggan.Designer.cs">
+      <DependentUpon>FormHapusPelanggan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Supplier\FormHapusSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Supplier\FormHapusSupplier.Designer.cs">
+      <DependentUpon>FormHapusSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Login\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Login\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Jabatan\FormTambahJabatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Jabatan\FormTambahJabatan.Designer.cs">
+      <DependentUpon>FormTambahJabatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Kategori\FormTambahKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Kategori\FormTambahKategori.Designer.cs">
+      <DependentUpon>FormTambahKategori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pegawai\FormTambahPegawai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pegawai\FormTambahPegawai.Designer.cs">
+      <DependentUpon>FormTambahPegawai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pelanggan\FormTambahPelanggan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pelanggan\FormTambahPelanggan.Designer.cs">
+      <DependentUpon>FormTambahPelanggan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Supplier\FormTambahSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Supplier\FormTambahSupplier.Designer.cs">
+      <DependentUpon>FormTambahSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Jabatan\FormUbahJabatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Jabatan\FormUbahJabatan.Designer.cs">
+      <DependentUpon>FormUbahJabatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Kategori\FormUbahKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Kategori\FormUbahKategori.Designer.cs">
+      <DependentUpon>FormUbahKategori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pegawai\FormUbahPegawai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pegawai\FormUbahPegawai.Designer.cs">
+      <DependentUpon>FormUbahPegawai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pelanggan\FormUbahPelanggan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pelanggan\FormUbahPelanggan.Designer.cs">
+      <DependentUpon>FormUbahPelanggan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Supplier\FormUbahSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Supplier\FormUbahSupplier.Designer.cs">
+      <DependentUpon>FormUbahSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\1 - Beranda Flow\FormBeranda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\1 - Beranda Flow\FormBeranda.Designer.cs">
+      <DependentUpon>FormBeranda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\FormMasterUtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\FormMasterUtama.Designer.cs">
+      <DependentUpon>FormMasterUtama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\FormKeranjang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\FormKeranjang.Designer.cs">
+      <DependentUpon>FormKeranjang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\FormAkun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\FormAkun.Designer.cs">
+      <DependentUpon>FormAkun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\3 - Riwayat Transaksi Flow\FormRiwayatTransaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\3 - Riwayat Transaksi Flow\FormRiwayatTransaksi.Designer.cs">
+      <DependentUpon>FormRiwayatTransaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\1 - Beranda Flow\ShopItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\1 - Beranda Flow\ShopItem.Designer.cs">
+      <DependentUpon>ShopItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\UCNotEmptyCart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\UCNotEmptyCart.Designer.cs">
+      <DependentUpon>UCNotEmptyCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\UCPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\UCPayment.Designer.cs">
+      <DependentUpon>UCPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\UCPageLoading.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\UCPageLoading.Designer.cs">
+      <DependentUpon>UCPageLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\1 - Beranda Flow\UCTambahKeranjang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\1 - Beranda Flow\UCTambahKeranjang.Designer.cs">
+      <DependentUpon>UCTambahKeranjang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\1 - Beranda Flow\FormDetailBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\1 - Beranda Flow\FormDetailBarang.Designer.cs">
+      <DependentUpon>FormDetailBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\FormNamaLengkap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\FormNamaLengkap.Designer.cs">
+      <DependentUpon>FormNamaLengkap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Login\FormVerifikasiEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Login\FormVerifikasiEmail.Designer.cs">
+      <DependentUpon>FormVerifikasiEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\FormTglLahir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\FormTglLahir.Designer.cs">
+      <DependentUpon>FormTglLahir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\FormVerifikasiPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\FormVerifikasiPass.Designer.cs">
+      <DependentUpon>FormVerifikasiPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\FormHandphone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\FormHandphone.Designer.cs">
+      <DependentUpon>FormHandphone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\FormAlamat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\FormAlamat.Designer.cs">
+      <DependentUpon>FormAlamat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\FormNamaPanggil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\FormNamaPanggil.Designer.cs">
+      <DependentUpon>FormNamaPanggil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Login\FormCredit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Login\FormCredit.Designer.cs">
+      <DependentUpon>FormCredit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pengiriman\FormHapusPengiriman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pengiriman\FormHapusPengiriman.Designer.cs">
+      <DependentUpon>FormHapusPengiriman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\FormHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\FormHome.Designer.cs">
+      <DependentUpon>FormHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pembelian\FormDaftarNotaBeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pembelian\FormDaftarNotaBeli.Designer.cs">
+      <DependentUpon>FormDaftarNotaBeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pembelian\FormTambahNotaBeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pembelian\FormTambahNotaBeli.Designer.cs">
+      <DependentUpon>FormTambahNotaBeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form History Saldo\FormDaftarHistorySaldo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form History Saldo\FormDaftarHistorySaldo.Designer.cs">
+      <DependentUpon>FormDaftarHistorySaldo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Check Pengiriman\FormDriverPengiriman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Check Pengiriman\FormDriverPengiriman.Designer.cs">
+      <DependentUpon>FormDriverPengiriman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Login\FormLupaPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Login\FormLupaPassword.Designer.cs">
+      <DependentUpon>FormLupaPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMessageBox.Designer.cs">
+      <DependentUpon>FormMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOpacityBg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOpacityBg.Designer.cs">
+      <DependentUpon>FormOpacityBg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pengiriman\FormDaftarPengiriman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pengiriman\FormDaftarPengiriman.Designer.cs">
+      <DependentUpon>FormDaftarPengiriman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pengiriman\FormTambahPengiriman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pengiriman\FormTambahPengiriman.Designer.cs">
+      <DependentUpon>FormTambahPengiriman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pengiriman\FormUbahPengiriman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pengiriman\FormUbahPengiriman.Designer.cs">
+      <DependentUpon>FormUbahPengiriman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Penjualan\FormDaftarNotaJual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Penjualan\FormDaftarNotaJual.Designer.cs">
+      <DependentUpon>FormDaftarNotaJual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Penjualan\FormTambahNotaJual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Penjualan\FormTambahNotaJual.Designer.cs">
+      <DependentUpon>FormTambahNotaJual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Pembelian\FormUpdateTerimaBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Pembelian\FormUpdateTerimaBarang.Designer.cs">
+      <DependentUpon>FormUpdateTerimaBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Form Login\UserControlRegister1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form Login\UserControlRegister1.Designer.cs">
+      <DependentUpon>UserControlRegister1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Login\UserControlRegister2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form Login\UserControlRegister2.Designer.cs">
+      <DependentUpon>UserControlRegister2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Login\UserControlRegister3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form Login\UserControlRegister3.Designer.cs">
+      <DependentUpon>UserControlRegister3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\UCEmptyCart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\UCEmptyCart.Designer.cs">
+      <DependentUpon>UCEmptyCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\UCItemKeranjang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\UCItemKeranjang.Designer.cs">
+      <DependentUpon>UCItemKeranjang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\UCAlamat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\UCAlamat.Designer.cs">
+      <DependentUpon>UCAlamat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\UCDetailInvoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\UCDetailInvoice.Designer.cs">
+      <DependentUpon>UCDetailInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\UCInvoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\UCInvoice.Designer.cs">
+      <DependentUpon>UCInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\UCHeaderBarang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\UCHeaderBarang.Designer.cs">
+      <DependentUpon>UCHeaderBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\UCProfil.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\UCProfil.Designer.cs">
+      <DependentUpon>UCProfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\UCEmptyWishlist.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\UCEmptyWishlist.Designer.cs">
+      <DependentUpon>UCEmptyWishlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\UCFavorit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\UCFavorit.Designer.cs">
+      <DependentUpon>UCFavorit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Rincian Pesanan\UCInformasiBayar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Rincian Pesanan\UCInformasiBayar.Designer.cs">
+      <DependentUpon>UCInformasiBayar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\UCMetodeBayar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Payment\UCMetodeBayar.Designer.cs">
+      <DependentUpon>UCMetodeBayar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Rincian Pesanan\UCPesanan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Rincian Pesanan\UCPesanan.Designer.cs">
+      <DependentUpon>UCPesanan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\3 - Riwayat Transaksi Flow\UCDetilNota.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\3 - Riwayat Transaksi Flow\UCDetilNota.Designer.cs">
+      <DependentUpon>UCDetilNota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\3 - Riwayat Transaksi Flow\UCNota.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\3 - Riwayat Transaksi Flow\UCNota.Designer.cs">
+      <DependentUpon>UCNota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Rincian Pesanan\UCRincianLain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Rincian Pesanan\UCRincianLain.Designer.cs">
+      <DependentUpon>UCRincianLain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Rincian Pesanan\UCRincianPesanan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\2 - Keranjang Flow\Rincian Pesanan\UCRincianPesanan.Designer.cs">
+      <DependentUpon>UCRincianPesanan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\3 - Riwayat Transaksi Flow\UCFooter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\3 - Riwayat Transaksi Flow\UCFooter.Designer.cs">
+      <DependentUpon>UCFooter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\3 - Riwayat Transaksi Flow\UCEmptyTransaksi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\3 - Riwayat Transaksi Flow\UCEmptyTransaksi.Designer.cs">
+      <DependentUpon>UCEmptyTransaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\3 - Riwayat Transaksi Flow\UCHeader.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\3 - Riwayat Transaksi Flow\UCHeader.Designer.cs">
+      <DependentUpon>UCHeader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\UCTambahSaldo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\UCTambahSaldo.Designer.cs">
+      <DependentUpon>UCTambahSaldo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\UCVerifikasiSaldo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\UCVerifikasiSaldo.Designer.cs">
+      <DependentUpon>UCVerifikasiSaldo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\UCContohGambar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\UCContohGambar.Designer.cs">
+      <DependentUpon>UCContohGambar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\History Saldo\UCHistorySaldo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\History Saldo\UCHistorySaldo.Designer.cs">
+      <DependentUpon>UCHistorySaldo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\History Saldo\UCDetailSaldo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\History Saldo\UCDetailSaldo.Designer.cs">
+      <DependentUpon>UCDetailSaldo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\History Saldo\UCEmptyHistorySaldo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\History Saldo\UCEmptyHistorySaldo.Designer.cs">
+      <DependentUpon>UCEmptyHistorySaldo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Master\Form Check Pengiriman\UCDriverCheck.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form Master\Form Check Pengiriman\UCDriverCheck.Designer.cs">
+      <DependentUpon>UCDriverCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Login\UCGantiPassword.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form Login\UCGantiPassword.Designer.cs">
+      <DependentUpon>UCGantiPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\UCEmail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form User\4 - Akun Flow\Profil\UCEmail.Designer.cs">
+      <DependentUpon>UCEmail.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form Master\Form Barang\FormDaftarBarang.resx">
+      <DependentUpon>FormDaftarBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Barang\FormHapusBarang.resx">
+      <DependentUpon>FormHapusBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Barang\FormTambahBarang.resx">
+      <DependentUpon>FormTambahBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Barang\FormUbahBarang.resx">
+      <DependentUpon>FormUbahBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Jabatan\FormDaftarJabatan.resx">
+      <DependentUpon>FormDaftarJabatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Kategori\FormDaftarKategori.resx">
+      <DependentUpon>FormDaftarKategori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pegawai\FormDaftarPegawai.resx">
+      <DependentUpon>FormDaftarPegawai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pelanggan\FormDaftarPelanggan.resx">
+      <DependentUpon>FormDaftarPelanggan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pengiriman\FormHapusPengiriman.resx">
+      <DependentUpon>FormHapusPengiriman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pengiriman\FormTambahPengiriman.resx">
+      <DependentUpon>FormTambahPengiriman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pengiriman\FormUbahPengiriman.resx">
+      <DependentUpon>FormUbahPengiriman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Supplier\FormDaftarSupplier.resx">
+      <DependentUpon>FormDaftarSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Jabatan\FormHapusJabatan.resx">
+      <DependentUpon>FormHapusJabatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Kategori\FormHapusKategori.resx">
+      <DependentUpon>FormHapusKategori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pegawai\FormHapusPegawai.resx">
+      <DependentUpon>FormHapusPegawai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pelanggan\FormHapusPelanggan.resx">
+      <DependentUpon>FormHapusPelanggan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Supplier\FormHapusSupplier.resx">
+      <DependentUpon>FormHapusSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Login\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Jabatan\FormTambahJabatan.resx">
+      <DependentUpon>FormTambahJabatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Kategori\FormTambahKategori.resx">
+      <DependentUpon>FormTambahKategori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pegawai\FormTambahPegawai.resx">
+      <DependentUpon>FormTambahPegawai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pelanggan\FormTambahPelanggan.resx">
+      <DependentUpon>FormTambahPelanggan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Supplier\FormTambahSupplier.resx">
+      <DependentUpon>FormTambahSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Jabatan\FormUbahJabatan.resx">
+      <DependentUpon>FormUbahJabatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Kategori\FormUbahKategori.resx">
+      <DependentUpon>FormUbahKategori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pegawai\FormUbahPegawai.resx">
+      <DependentUpon>FormUbahPegawai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pelanggan\FormUbahPelanggan.resx">
+      <DependentUpon>FormUbahPelanggan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Supplier\FormUbahSupplier.resx">
+      <DependentUpon>FormUbahSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\1 - Beranda Flow\UCFilterDialog.resx">
+      <DependentUpon>UCFilterDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\1 - Beranda Flow\FormBeranda.resx">
+      <DependentUpon>FormBeranda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\FormKeranjang.resx">
+      <DependentUpon>FormKeranjang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\Rincian Pesanan\UCInformasiBayar.resx">
+      <DependentUpon>UCInformasiBayar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\Payment\UCMetodeBayar.resx">
+      <DependentUpon>UCMetodeBayar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\Rincian Pesanan\UCPesanan.resx">
+      <DependentUpon>UCPesanan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\Rincian Pesanan\UCRincianLain.resx">
+      <DependentUpon>UCRincianLain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\3 - Riwayat Transaksi Flow\UCFooter.resx">
+      <DependentUpon>UCFooter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\FormAkun.resx">
+      <DependentUpon>FormAkun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\Payment\FormMetodeBayar.resx">
+      <DependentUpon>FormMetodeBayar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\3 - Riwayat Transaksi Flow\FormRiwayatTransaksi.resx">
+      <DependentUpon>FormRiwayatTransaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\FormMasterUtama.resx">
+      <DependentUpon>FormMasterUtama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\1 - Beranda Flow\ShopItem.resx">
+      <DependentUpon>ShopItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\Payment\UCAlamat.resx">
+      <DependentUpon>UCAlamat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\Payment\UCDetailInvoice.resx">
+      <DependentUpon>UCDetailInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\Payment\UCInvoice.resx">
+      <DependentUpon>UCInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\UCNotEmptyCart.resx">
+      <DependentUpon>UCNotEmptyCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\Payment\UCPayment.resx">
+      <DependentUpon>UCPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\UCVerifikasiSaldo.resx">
+      <DependentUpon>UCVerifikasiSaldo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\UCPageLoading.resx">
+      <DependentUpon>UCPageLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\FormUserUtama.resx">
+      <DependentUpon>FormUserUtama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\1 - Beranda Flow\UCTambahKeranjang.resx">
+      <DependentUpon>UCTambahKeranjang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\1 - Beranda Flow\FormDetailBarang.resx">
+      <DependentUpon>FormDetailBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\Profil\FormNamaLengkap.resx">
+      <DependentUpon>FormNamaLengkap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Login\FormVerifikasiEmail.resx">
+      <DependentUpon>FormVerifikasiEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\Profil\FormTglLahir.resx">
+      <DependentUpon>FormTglLahir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\Profil\FormVerifikasiPass.resx">
+      <DependentUpon>FormVerifikasiPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\Profil\FormHandphone.resx">
+      <DependentUpon>FormHandphone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\Profil\FormAlamat.resx">
+      <DependentUpon>FormAlamat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\Profil\FormNamaPanggil.resx">
+      <DependentUpon>FormNamaPanggil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Login\FormCredit.resx">
+      <DependentUpon>FormCredit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\FormHome.resx">
+      <DependentUpon>FormHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pembelian\FormDaftarNotaBeli.resx">
+      <DependentUpon>FormDaftarNotaBeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pembelian\FormTambahNotaBeli.resx">
+      <DependentUpon>FormTambahNotaBeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form History Saldo\FormDaftarHistorySaldo.resx">
+      <DependentUpon>FormDaftarHistorySaldo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Check Pengiriman\FormDriverPengiriman.resx">
+      <DependentUpon>FormDriverPengiriman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Login\FormLupaPassword.resx">
+      <DependentUpon>FormLupaPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMessageBox.resx">
+      <DependentUpon>FormMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOpacityBg.resx">
+      <DependentUpon>FormOpacityBg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pengiriman\FormDaftarPengiriman.resx">
+      <DependentUpon>FormDaftarPengiriman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Penjualan\FormDaftarNotaJual.resx">
+      <DependentUpon>FormDaftarNotaJual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Penjualan\FormTambahNotaJual.resx">
+      <DependentUpon>FormTambahNotaJual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Pembelian\FormUpdateTerimaBarang.resx">
+      <DependentUpon>FormUpdateTerimaBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Login\UserControlRegister1.resx">
+      <DependentUpon>UserControlRegister1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Login\UserControlRegister2.resx">
+      <DependentUpon>UserControlRegister2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Login\UserControlRegister3.resx">
+      <DependentUpon>UserControlRegister3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\UCEmptyCart.resx">
+      <DependentUpon>UCEmptyCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\UCItemKeranjang.resx">
+      <DependentUpon>UCItemKeranjang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\Payment\UCHeaderBarang.resx">
+      <DependentUpon>UCHeaderBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\Profil\UCProfil.resx">
+      <DependentUpon>UCProfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\UCEmptyWishlist.resx">
+      <DependentUpon>UCEmptyWishlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\UCFavorit.resx">
+      <DependentUpon>UCFavorit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\3 - Riwayat Transaksi Flow\UCDetilNota.resx">
+      <DependentUpon>UCDetilNota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\3 - Riwayat Transaksi Flow\UCNota.resx">
+      <DependentUpon>UCNota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\2 - Keranjang Flow\Rincian Pesanan\UCRincianPesanan.resx">
+      <DependentUpon>UCRincianPesanan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\3 - Riwayat Transaksi Flow\UCEmptyTransaksi.resx">
+      <DependentUpon>UCEmptyTransaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\3 - Riwayat Transaksi Flow\UCHeader.resx">
+      <DependentUpon>UCHeader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\UCTambahSaldo.resx">
+      <DependentUpon>UCTambahSaldo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\UCContohGambar.resx">
+      <DependentUpon>UCContohGambar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\History Saldo\UCHistorySaldo.resx">
+      <DependentUpon>UCHistorySaldo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\History Saldo\UCDetailSaldo.resx">
+      <DependentUpon>UCDetailSaldo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\History Saldo\UCEmptyHistorySaldo.resx">
+      <DependentUpon>UCEmptyHistorySaldo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Master\Form Check Pengiriman\UCDriverCheck.resx">
+      <DependentUpon>UCDriverCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Login\UCGantiPassword.resx">
+      <DependentUpon>UCGantiPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form User\4 - Akun Flow\Profil\UCEmail.resx">
+      <DependentUpon>UCEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Storepedia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye-close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye-open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\times.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart-regular.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart-solid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empty-cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallet_plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empty_wishlist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empty_transaction_history.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\strukManual.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\strukOnline.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empty_HistorySaldo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Storepedia-Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="storepedia_logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

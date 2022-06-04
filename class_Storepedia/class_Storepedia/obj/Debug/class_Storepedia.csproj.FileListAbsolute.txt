@@ -1,0 +1,21 @@
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\class_Storepedia\class_Storepedia\bin\Debug\class_Storepedia.dll
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\class_Storepedia\class_Storepedia\bin\Debug\class_Storepedia.pdb
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.csprojAssemblyReference.cache
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.csproj.CoreCompileInputs.cache
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.csproj.CopyComplete
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.dll
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.pdb
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\bin\Debug\class_Storepedia.dll
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\bin\Debug\class_Storepedia.pdb
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.csprojAssemblyReference.cache
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.csproj.CoreCompileInputs.cache
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.csproj.CopyComplete
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.dll
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.pdb
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\bin\Debug\class_Storepedia.dll
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\bin\Debug\class_Storepedia.pdb
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.csproj.CoreCompileInputs.cache
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.csproj.CopyComplete
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.dll
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.pdb
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\class_Storepedia\class_Storepedia\obj\Debug\class_Storepedia.csproj.AssemblyReference.cache

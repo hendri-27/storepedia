@@ -1,0 +1,332 @@
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarBarang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusBarang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahBarang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahBarang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarJabatan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarKategori.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarPegawai.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarPelanggan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarSupplier.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusJabatan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusKategori.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusPegawai.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusPelanggan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusSupplier.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormLogin.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahJabatan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahKategori.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahPegawai.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahPelanggan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahSupplier.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahJabatan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahKategori.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahPegawai.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahPelanggan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahSupplier.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormBeranda.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUserUtama.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormMasterUtama.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.Properties.Resources.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister1.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister2.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister3.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.GenerateResource.cache
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.CoreCompileInputs.cache
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csprojAssemblyReference.cache
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.exe.config
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.exe
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.pdb
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\class_Storepedia.dll
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\FontAwesome.Sharp.dll
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\MySql.Data.dll
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\class_Storepedia.pdb
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.CopyComplete
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.exe
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.pdb
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormKeranjang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormProfil.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormRiwayatTransaksi.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.exe.config
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.exe
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.pdb
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\class_Storepedia.dll
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\FontAwesome.Sharp.dll
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\Guna.UI2.dll
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\MySql.Data.dll
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\class_Storepedia.pdb
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csprojAssemblyReference.cache
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarBarang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusBarang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahBarang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahBarang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarJabatan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarKategori.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarPegawai.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarPelanggan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarSupplier.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusJabatan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusKategori.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusPegawai.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusPelanggan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusSupplier.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormLogin.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahJabatan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahKategori.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahPegawai.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahPelanggan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahSupplier.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahJabatan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahKategori.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahPegawai.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahPelanggan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahSupplier.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FilterDialog.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormBeranda.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormKeranjang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormProfil.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormRiwayatTransaksi.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormMasterUtama.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.ShopItem.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCNotEmptyCart.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.PageLoading.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUserUtama.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.TambahKeranjang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDetailBarang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.Properties.Resources.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister1.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister2.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister3.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCEmptyCart.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCItemKeranjang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.GenerateResource.cache
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.CoreCompileInputs.cache
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.CopyComplete
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.exe
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10182020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.pdb
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.exe.config
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.exe
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.pdb
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\class_Storepedia.dll
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\FontAwesome.Sharp.dll
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\Guna.UI2.dll
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\MySql.Data.dll
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\class_Storepedia.pdb
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csprojAssemblyReference.cache
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarBarang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusBarang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahBarang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahBarang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarJabatan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarKategori.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarPegawai.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarPelanggan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarSupplier.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusJabatan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusKategori.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusPegawai.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusPelanggan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusSupplier.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormLogin.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahJabatan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahKategori.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahPegawai.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahPelanggan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahSupplier.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahJabatan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahKategori.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahPegawai.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahPelanggan.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahSupplier.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FilterDialog.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormBeranda.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormKeranjang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormProfil.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormRiwayatTransaksi.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormMasterUtama.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.ShopItem.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCNotEmptyCart.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.PageLoading.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUserUtama.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.TambahKeranjang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDetailBarang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.Properties.Resources.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister1.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister2.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister3.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCEmptyCart.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCItemKeranjang.resources
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.GenerateResource.cache
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.CoreCompileInputs.cache
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.CopyComplete
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.exe
+E:\Hendra\Kuliah\Semester 3\PBD\UTS\UTS 2020-2021\10202020\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.pdb
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.exe.config
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.exe
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.pdb
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\class_Storepedia.dll
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\FontAwesome.Sharp.dll
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\Guna.UI2.dll
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\MySql.Data.dll
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\class_Storepedia.pdb
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csprojAssemblyReference.cache
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarBarang.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusBarang.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahBarang.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahBarang.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarJabatan.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarKategori.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarPegawai.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarPelanggan.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarSupplier.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusJabatan.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusKategori.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusPegawai.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusPelanggan.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusSupplier.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormLogin.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahJabatan.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahKategori.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahPegawai.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahPelanggan.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahSupplier.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahJabatan.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahKategori.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahPegawai.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahPelanggan.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahSupplier.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FilterDialog.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormBeranda.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormKeranjang.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormProfil.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormRiwayatTransaksi.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormMasterUtama.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.ShopItem.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCNotEmptyCart.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.PageLoading.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUserUtama.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.TambahKeranjang.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDetailBarang.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.Properties.Resources.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister1.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister2.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister3.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCEmptyCart.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCItemKeranjang.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.GenerateResource.cache
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.CoreCompileInputs.cache
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.CopyComplete
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.exe
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.pdb
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCAlamat.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCDetailInvoice.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCInvoice.resources
+D:\Hendra\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCPayment.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.exe.config
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.exe
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\pbd_5_AplikasiStorepedia.pdb
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\class_Storepedia.dll
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\FontAwesome.Sharp.dll
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\Guna.UI2.dll
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\MySql.Data.dll
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\bin\Debug\class_Storepedia.pdb
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.AssemblyReference.cache
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.SuggestedBindingRedirects.cache
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarBarang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusBarang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahBarang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahBarang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarJabatan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarKategori.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarPegawai.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarPelanggan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusPengiriman.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahPengiriman.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahPengiriman.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarSupplier.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusJabatan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusKategori.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusPegawai.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusPelanggan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHapusSupplier.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormLogin.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahJabatan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahKategori.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahPegawai.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahPelanggan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahSupplier.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahJabatan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahKategori.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahPegawai.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahPelanggan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUbahSupplier.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FilterDialog.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormBeranda.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormKeranjang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCInformasiBayar.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCMetodeBayar.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCPesanan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCRincianLain.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCFooter.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormAkun.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormMetodeBayar.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormRiwayatTransaksi.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormMasterUtama.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.ShopItem.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCAlamat.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCDetailInvoice.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCInvoice.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCNotEmptyCart.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCPayment.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCVerifikasiSaldo.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.PageLoading.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUserUtama.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.TambahKeranjang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDetailBarang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormNamaLengkap.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormVerifikasiEmail.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTglLahir.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormVerifikasiPass.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHandphone.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormAlamat.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormNamaPanggil.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormCredit.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormHome.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarNotaBeli.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahNotaBeli.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarHistorySaldo.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDriverPengiriman.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormLupaPassword.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormMessageBox.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormOpacityBg.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarPengiriman.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormDaftarNotaJual.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormTambahNotaJual.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.FormUpdateTerimaBarang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.Properties.Resources.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister1.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister2.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UserControlRegister3.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCEmptyCart.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCItemKeranjang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCHeaderBarang.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCProfil.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCEmptyWishlist.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCFavorit.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCDetilNota.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCNota.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCRincianPesanan.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCEmptyTransaksi.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCHeader.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCTambahSaldo.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCContohGambar.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCHistorySaldo.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCDetailSaldo.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCEmptyHistorySaldo.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCDriverCheck.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCGantiPassword.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.UCEmail.resources
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.GenerateResource.cache
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.CoreCompileInputs.cache
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.csproj.CopyComplete
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.exe
+D:\Hendri\kuliah\semester 3\pbd\UTS\pbd_5_AplikasiStorepedia\AplikasiStorepedia\pbd_5_AplikasiStorepedia\obj\Debug\pbd_5_AplikasiStorepedia.pdb
